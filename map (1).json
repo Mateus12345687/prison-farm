@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../schemas/map.schema.json",
+  "id": "prisonfarm",
+  "meta": {
+    "name": "Locksock the Warden",
+    "authors": [
+      "anonymous"
+    ]
+  },
+  "trials": [
+    {
+      "id": "main",
+      "name": "Main Trial",
+      "default": true
+    }
+  ]
+}
